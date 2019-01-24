@@ -1,2 +1,2 @@
-# data-table
-author-data-table element
+# table
+author-table element
